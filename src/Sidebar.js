@@ -17,7 +17,7 @@ function Sidebar() {
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="" />
                 <Avatar src="https://media-exp1.licdn.com/dms/image/C4D35AQH4tXKFfESRwA/profile-framedphoto-shrink_100_100/0/1613494608179?e=1617181200&v=beta&t=NL1u05wlL1zGUVOrStIh-OXHtsvtRxHEpz1aGAahtwE" className="sidebar__avatar" />
                 <h2>Monia Kamly</h2>
-                <h4>moniakamli95@gmail.com</h4>
+                <p>moniakamli95@gmail.com</p>
             </div>
             <div className="sidebar__stats">
                 <div className="sidebar__stat">

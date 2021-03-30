@@ -23,9 +23,10 @@
   padding-bottom: 10px;
 }
 
-.sidebar__top > h4 {
+.sidebar__top > p {
   color: gray;
-  font-size: 12px;
+  font-size: 18px;
+  padding: 10px;
 }
 
 .sidebar__top > h2 {
